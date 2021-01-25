@@ -13,7 +13,11 @@
 .*.lb
 *.nav
 *.toc
-
+*.blg
+*.snm
+*.synctex.gz
+*.vrb
+*.bbl
 
 ## Intermediate documents:
 *.dvi
